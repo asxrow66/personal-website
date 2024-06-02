@@ -1,0 +1,35 @@
+body {
+    background-color: #181818;
+    color: #cccccc;
+    margin: 0;
+    font-family: "Montserrat", sans-serif;
+}
+
+h1, h2 {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: italic;
+    text-align: center;
+    text-transform: lowercase;
+}
+
+p {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: lowercase;
+}
+
+.flex-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+
+#ppsum {
+    text-align: left;
+    margin-left: 20px;
+}
