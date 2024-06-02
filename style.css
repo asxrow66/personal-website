@@ -3,6 +3,7 @@ body {
     color: #cccccc;
     margin: 0;
     font-family: "Montserrat", sans-serif;
+    text-align: center;
 }
 
 h1, h2 {
@@ -20,16 +21,33 @@ p {
     font-weight: 500;
     font-style: normal;
     text-transform: lowercase;
+    text-align: center
 }
 
-.flex-container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 20px;
+a {
+    text-align: center
 }
 
-#ppsum {
-    text-align: left;
-    margin-left: 20px;
-}
+a:link {
+    color: #cccccc;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #cccccc;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #cccccc;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: #cccccc;
+    background-color: transparent;
+    text-decoration: underline;
+  }
