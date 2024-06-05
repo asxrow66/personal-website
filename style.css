@@ -43,7 +43,7 @@ a:link {
   a:hover {
     color: #cccccc;
     background-color: transparent;
-    text-decoration: underline;
+    text-decoration: none;
   }
   
   a:active {
@@ -59,4 +59,8 @@ a:link {
     font-style: italic;
     text-align: center;
     text-transform: lowercase;
+  }
+
+  img {
+    border-radius: 30px;
   }
