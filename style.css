@@ -61,3 +61,6 @@ a:link {
     text-transform: lowercase;
   }
   
+  h6 these freaking id's are not working BROO i need to align a single image to the left, middle, and the last one, to the center bro i am so tired of this just not working and am going to try doing all of tis inside of Astro in a couple of minutes because I hear it is good and I don't feel like handling with CSS and HTML because it is such a stupid language and ChatGPT says I did everything right and their should be no reason it doesn't work{
+    text-size-adjust: 2px;
+  }
